@@ -3,6 +3,8 @@ package practica2;
 
 public class Pizza {
 
+    
+    
     public String[] getPizzaingrediente() {
         return pizzaingrediente;
     }
